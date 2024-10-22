@@ -2,9 +2,7 @@
 
 A collection of videos created using manim.
 
-![GeometricSeries](output/GeometricSeries.mp4)
-
-output/GeometricSeries.mp4
+[![GeometricSeries](output/GeometricSeries.mp4)](https://flic.kr/p/2qpcntv)
 
 ## prereqs
 
