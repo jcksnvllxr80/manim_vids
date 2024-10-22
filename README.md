@@ -2,6 +2,20 @@
 
 A collection of videos created using manim.
 
-<video width="320" height="240" controls>
-  <source src="output/GeometricSeries.mp4" type="video/mp4">
-</video>
+![GeometricSeries](output/GeometricSeries.mp4)
+
+output/GeometricSeries.mp4
+
+## prereqs
+
+* python
+* ffmpeg
+* latex
+
+## installation guide link
+
+https://docs.manim.community/en/stable/installation/windows.html
+
+## usage
+
+`manim -pql <script_name>.py <SceneName>`
